@@ -1,6 +1,6 @@
 🎨 AI Image App
 <p align="center"> <b>AI-powered image generator built with Streamlit & Hugging Face Diffusion Models</b> </p> <p align="center"> Generate stunning images from text prompts, browse saved creations, and download them — all from a fast and intuitive web interface. </p>
-🚀 <b>Features<b>
+🚀 <b>Features</b>
 
 🔥 Text-to-Image Generation using Hugging Face diffusion models
 
@@ -14,21 +14,8 @@
 
 🔐 Secure API key handling using .env
 
-📂 Project Structure
-ai_image_app/
-│── app.py                        # Main generator UI
-│── pages/
-│   │── home.py                   # Welcome / Home page
-│   │── gallery.py                # Image gallery viewer
-│
-│── utils/
-│   │── hf_client.py              # Hugging Face API client
-│
-│── assets/                       # Saved/generated images
-│── .env                          # API tokens + output path
-│── requirements.txt
-│── README.md
-│── .gitignore
+📂<b> Project Structure</b>
+<img width="174" height="277" alt="image" src="https://github.com/user-attachments/assets/d6db9cc4-1c6b-4ee5-b06f-8de92da40b69" />
 
 🛠️ Built With
 
