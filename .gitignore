@@ -1,0 +1,49 @@
+# ==========================
+# Python Cache
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================
+# Virtual Environments
+# ==========================
+venv/
+.venv/
+ENV/
+env/
+
+# ==========================
+# Environment Files (Secrets)
+# ==========================
+.env
+*.env
+
+# ==========================
+# Generated Images / Outputs
+# ==========================
+generated_images/
+*.jpg
+*.png
+
+# ==========================
+# OS / Editor Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# ==========================
+# Python Distribution / Packaging
+# ==========================
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
