@@ -10,9 +10,11 @@ ________________________________________________________________________________
 🧭 Multi-page Streamlit UI (Home, Generator, Gallery)
 🎚️ Adjustable prompt settings
 🔐 Secure API key handling using .env
+______________________________________________________________________________________________________________________________________________________<br>
 
 📂 <b>Project Structure</b>
-<img width="174" height="277" alt="image" src="https://github.com/user-attachments/assets/d6db9cc4-1c6b-4ee5-b06f-8de92da40b69" />
+
+<img width="174" height="277" alt="image" src="https://github.com/user-attachments/assets/d6db9cc4-1c6b-4ee5-b06f-8de92da40b69"/>
 🛠️ <b>Built With</b>
 
 Python
