@@ -1,17 +1,31 @@
 🎨 AI Image App
 <p align="center"><b>AI-powered image generator built with Streamlit & Hugging Face Diffusion Models</b></p> <p align="center">Generate stunning images from text prompts, browse saved creations, and download them — all from a fast and intuitive web interface.</p>
-🚀 <b>Features</b>
+🚀 Features
 
 🔥 Text-to-Image generation using Hugging Face diffusion models
 🖼️ Built-in Image Gallery to view all generated images
-📥 One-click image downloads
+📥 One-click download for any image
 🧭 Multi-page Streamlit UI (Home, Generator, Gallery)
 🎚️ Adjustable prompt settings
-🔐 Secure API key handling using .env
+🔐 Secure API key handling via .env
+📁 Auto-save all generated images to /assets
 
-📂 <b>Project Structure</b>
+📂 Project Structure
 <img width="174" height="277" alt="image" src="https://github.com/user-attachments/assets/d6db9cc4-1c6b-4ee5-b06f-8de92da40b69" />
-🛠️ <b>Built With</b>
+ai_image_app/
+│── app.py
+│── pages/
+│   ├── home.py
+│   ├── generator.py
+│   └── gallery.py
+│── utils/
+│   └── hf_client.py
+│── assets/
+│── requirements.txt
+│── .env
+│── README.md
+
+🛠️ Built With
 
 Python
 
@@ -25,7 +39,7 @@ Requests
 
 python-dotenv
 
-📦 <b>Installation</b>
+📦 Installation
 1️⃣ Clone the repository
 git clone https://github.com/YOUR_USERNAME/ai_image_app.git
 cd ai_image_app
@@ -47,46 +61,44 @@ source .venv/bin/activate
 4️⃣ Install dependencies
 pip install -r requirements.txt
 
-🔑 <b>Environment Variables</b>
+🔑 Environment Variables
 
-Create a .env file:
+Create a .env file in the project root:
 
 HUGGINGFACE_TOKEN=your_hf_token_here
 OUTPUT_DIR=./assets
 
-▶️ <b>Run the App</b>
+▶️ Run the App
+
+Start Streamlit:
+
 streamlit run app.py
 
 
 Your browser will open automatically.
 
-🖼️ <b>Image Gallery</b>
+🖼️ Image Gallery
 
-All generated images are saved in:
+All generated images are saved inside:
 
 ./assets/
 
 
-Displayed in a clean 3-column grid with preview + download options.
+The Gallery page displays them in a 3-column grid with preview & download options.
 
-📥 <b>Example Prompt</b>
+📥 Example Prompt
 A futuristic city floating in the clouds, ultra-detailed, cinematic lighting
 
-🔧 <b>Roadmap / Future Improvements</b>
+🔧 Roadmap / Future Improvements
 
-Multiple model options (anime, photorealism, pixel art)
+⬜ Multiple model styles (anime, realism, pixel art)
+⬜ Image-to-image generation
+⬜ Built-in upscaling (Real-ESRGAN)
+⬜ Prompt presets
+⬜ Improved rate limiting / error handling
+⬜ User-defined output directory
 
-Image-to-image generation
-
-Built-in upscaling (Real-ESRGAN)
-
-Prompt presets / templates
-
-Rate-limit & error-handling improvements
-
-Custom output directories
-
-🪪 <b>License</b>
+🪪 License
 
 This project is licensed under the MIT License.
-Free to use, modify, and distribute with attribution.
+Feel free to use, modify, and distribute with attribution.
