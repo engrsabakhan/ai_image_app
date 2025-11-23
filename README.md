@@ -15,19 +15,6 @@ ________________________________________________________________________________
 
 <img width="174" height="277" alt="image" src="https://github.com/user-attachments/assets/d6db9cc4-1c6b-4ee5-b06f-8de92da40b69"/>
 <br>
-ai_image_app/
-│── app.py
-│── pages/
-│   ├── home.py
-│   ├── generator.py
-│   └── gallery.py
-│── utils/
-│   └── hf_client.py
-│── assets/
-│── requirements.txt
-│── .env
-│── README.md
-
 __________________________________________________________________________________________________________________________<br>
 
 🛠️ <b>Built With</b>
