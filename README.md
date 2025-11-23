@@ -32,7 +32,7 @@ Requests
 python-dotenv
 
 📦<b>Installation</b>
-<>
+<br>
 1️⃣ Clone the repository
 git clone https://github.com/YOUR_USERNAME/ai_image_app.git
 cd ai_image_app
