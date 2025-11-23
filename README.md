@@ -46,8 +46,6 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________<br>
 📦 <b>Installation</b><br>
 1️⃣ Clone the repository
-<code>git clone https://github.com/YOUR_USERNAME/ai_image_app.git
-cd ai_image_app</code>
 <pre style="
     background:#272822; 
     color:#f8f8f2; 
