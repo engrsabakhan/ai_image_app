@@ -47,7 +47,15 @@ ________________________________________________________________________________
 📦 <b>Installation</b><br>
 1️⃣ Clone the repository
 <code>git clone https://github.com/YOUR_USERNAME/ai_image_app.git
-cd ai_image_app</code><pre>
+cd ai_image_app</code>
+<pre style="
+    background:#272822; 
+    color:#f8f8f2; 
+    padding:12px; 
+    border-radius:6px;
+    overflow:auto;
+"><code>git clone https://github.com/YOUR_USERNAME/ai_image_app.git
+cd ai_image_app</code></pre>
 
 2️⃣ Create a virtual environment
 python -m venv .venv
