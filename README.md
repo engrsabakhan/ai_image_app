@@ -1,6 +1,6 @@
 🎨 AI Image App
 <p align="center"> <b>AI-powered image generator built with Streamlit & Hugging Face Diffusion Models</b> </p> <p align="center"> Generate stunning images from text prompts, browse saved creations, and download them — all from a fast and intuitive web interface. </p>
-🚀 Features
+🚀 <b>Features<b>
 
 🔥 Text-to-Image Generation using Hugging Face diffusion models
 
