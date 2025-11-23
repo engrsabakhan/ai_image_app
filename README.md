@@ -56,16 +56,14 @@ ________________________________________________________________________________
 cd ai_image_app</code></pre>
 
 2️⃣ Create a virtual environment
-python -m venv .venv
 <pre style="
     background:#272822; 
     color:#f8f8f2; 
     padding:12px; 
     border-radius:6px;
     overflow:auto;
-"><code></code></pre>
+"><code>python -m venv .venv</code></pre>
 3️⃣ Activate the environment
-
 <b>Windows</b>
 <pre style="
     background:#272822; 
