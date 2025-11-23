@@ -57,12 +57,23 @@ cd ai_image_app</code></pre>
 
 2️⃣ Create a virtual environment
 python -m venv .venv
-
+<pre style="
+    background:#272822; 
+    color:#f8f8f2; 
+    padding:12px; 
+    border-radius:6px;
+    overflow:auto;
+"><code></code></pre>
 3️⃣ Activate the environment
 
 <b>Windows</b>
-
-.venv\Scripts\activate
+<pre style="
+    background:#272822; 
+    color:#f8f8f2; 
+    padding:12px; 
+    border-radius:6px;
+    overflow:auto;
+"><code>.venv\Scripts\activate</code></pre>
 
 4️⃣ Install dependencies
 pip install -r requirements.txt
@@ -70,13 +81,25 @@ ________________________________________________________________________________
 🔑 <b>Environment Variables</b>
 
 Create a .env file:
+<pre style="
+    background:#272822; 
+    color:#f8f8f2; 
+    padding:12px; 
+    border-radius:6px;
+    overflow:auto;
+"><code>HUGGINGFACE_TOKEN=your_hf_token_here
+OUTPUT_DIR=./assets</code></pre>
 
-HUGGINGFACE_TOKEN=your_hf_token_here
-OUTPUT_DIR=./assets
 __________________________________________________________________________________________________________________________<br>
 ▶️ <b>Run the App</b>
 streamlit run app.py
-
+<pre style="
+    background:#272822; 
+    color:#f8f8f2; 
+    padding:12px; 
+    border-radius:6px;
+    overflow:auto;
+"><code>streamlit run app.py</code></pre>
 
 Your browser will open automatically.
 __________________________________________________________________________________________________________________________<br>
