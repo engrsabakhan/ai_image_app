@@ -3,8 +3,8 @@
 __________________________________________________________________________________________________________________________<br>
 
 🚀 <b>Features</b>
-
-🔥 Text-to-Image generation using Hugging Face diffusion models
+<br>
+🔥 <p>Text-to-Image generation using Hugging Face diffusion models</p>
 🖼️ Built-in Image Gallery to view all generated images
 📥 One-click image downloads
 🧭 Multi-page Streamlit UI (Home, Generator, Gallery)
