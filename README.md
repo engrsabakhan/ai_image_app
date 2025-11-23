@@ -2,13 +2,13 @@
 <p align="center"><b>AI-powered image generator built with Streamlit & Hugging Face Diffusion Models</b></p> <p align="center">Generate stunning images from text prompts, browse saved creations, and download them — all from a fast and intuitive web interface.</p></br>
 __________________________________________________________________________________________________________________________<br>
 
-🚀 <b>Features</b>
-🔥 <p>Text-to-Image generation using Hugging Face diffusion models</p>
-🖼️ <p>Built-in Image Gallery to view all generated images</p>
-📥 <p>One-click image downloads</p>
-🧭 <p>Multi-page Streamlit UI (Home, Generator, Gallery)</p>
-🎚️ <p>Adjustable prompt settings</p>
-🔐 <p>Secure API key handling using .env</p>
+🚀 <b>Features</br>
+ <p>🔥Text-to-Image generation using Hugging Face diffusion models</p>
+ <p>🖼️Built-in Image Gallery to view all generated images</p>
+ <p>📥One-click image downloads</p>
+ <p>🧭Multi-page Streamlit UI (Home, Generator, Gallery)</p>
+ <p>🎚️Adjustable prompt settings</p>
+ <p>🔐Secure API key handling using .env</p>
 __________________________________________________________________________________________________________________________<br>
 
 📂 <b>Project Structure</b>
