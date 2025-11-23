@@ -3,13 +3,12 @@
 __________________________________________________________________________________________________________________________<br>
 
 🚀 <b>Features</b>
-<br>
 🔥 <p>Text-to-Image generation using Hugging Face diffusion models</p>
-🖼️ Built-in Image Gallery to view all generated images
-📥 One-click image downloads
-🧭 Multi-page Streamlit UI (Home, Generator, Gallery)
-🎚️ Adjustable prompt settings
-🔐 Secure API key handling using .env
+🖼️ <p>Built-in Image Gallery to view all generated images</p>
+📥 <p>One-click image downloads</p>
+🧭 <p>Multi-page Streamlit UI (Home, Generator, Gallery)</p>
+🎚️ <p>Adjustable prompt settings</p>
+🔐 <p>Secure API key handling using .env</p>
 __________________________________________________________________________________________________________________________<br>
 
 📂 <b>Project Structure</b>
@@ -20,17 +19,17 @@ ________________________________________________________________________________
 
 🛠️ <b>Built With</b>
 
-<b>1</b>Python
+<b>1</b> Python
 
-<b>2</b>Streamlit
+<b>2</b> Streamlit
 
-<b>3</b>Hugging Face Diffusers / API
+<b>3</b> Hugging Face Diffusers / API
 
-<b>4</b>Pillow
+<b>4</b> Pillow
 
-<b>5</b>Requests
+<b>5</b> Requests
 
-<b>6</b>python-dotenv
+<b>6</b> python-dotenv
 __________________________________________________________________________________________________________________________<br>
 📦 <b>Installation</b><br>
 1️⃣ Clone the repository
